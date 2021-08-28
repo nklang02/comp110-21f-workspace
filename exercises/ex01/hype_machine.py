@@ -1,5 +1,5 @@
 
-"""Learning to create inputs into programs"""
+"""Learning to create inputs into programs."""
 __author__ = "730418254"
 name: str = input("What is your name? ")
 print((name) + " it is so nice to meet such a cool person!")

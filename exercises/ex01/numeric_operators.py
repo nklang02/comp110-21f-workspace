@@ -1,4 +1,4 @@
-"""Learning to work with numeric operators, type conversions, and more string concatenations"""
+"""Learning to work with numeric operators, type conversions, and more string concatenations."""
 __author__ = "730418254"
 variable_1: str = input("Left-hand side: ")
 variable_2: str = input("Right-hand side: ")

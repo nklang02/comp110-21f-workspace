@@ -1,4 +1,4 @@
-"""Learning to program with relational operators"""
+"""Learning to program with relational operators."""
 __author__ = "730418254"
 value_1: str = input("Left-hand side: ")
 value_2: str = input("Right-hand side: ")
