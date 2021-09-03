@@ -13,10 +13,3 @@ while i < maximum:
 if maximum <= 0:
     print("No beat...")
     maximum = (maximum + 1) ** 2
-
-            
-
-        
-        
-    
-
